@@ -10,7 +10,7 @@ int main (void){
 
 //用指令: dir, cd
 //  gcc hello.c -o myfirstc
-//  ./myfirstc
+//  ./myfirstcd
 
 // 也可以用extention，直接執行，但用指令可能比較乾淨
 
